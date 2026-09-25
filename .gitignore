@@ -1,0 +1,23 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# vs
+.vs/
+.vsconfig
+
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+*.sln
+*.slnx
+
+Debug/
+Release/
+x64/
+
+.DS_Store
+Thumbs.db
